@@ -60,9 +60,13 @@ Satisfacao_dos_Clientes.xlsx <br>
 2. **Execute o código:** Abra o notebook `Simulador1.ipynb` no Jupyter Notebook ou Google Colab e execute as células. <br>
    **Ejecute el código:** Abra el cuaderno `Simulador1.ipynb` en Jupyter Notebook o Google Colab y ejecute las celdas.
 
-
 ### Bibliotecas utilizadas 🗃️
 Pandas <br>
 Matplotlib <br>
 Seaborn <br>
 
+### Desenvolvedora / Desarrolladora 👩‍💻
+
+Ninoska Contreras
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/ninoska-contreras)
